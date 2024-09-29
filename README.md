@@ -94,7 +94,7 @@ We will deploy an application on a cloud server:
 4. **Access the app from the browser:**
    - Configure the firewall to open the port (e.g., port 7071) and make the app publicly available.
    - Access the app by pasting the **IP Address** and port in your browser.
-   - ![Alt Text](Cloud-and-Infrastructure-as-Service/Deploy-And-Run-Application-Artifact-on-Droplet/7071-port)
+   - ![Alt Text](Cloud-and-Infrastructure-as-Service/Deploy-And-Run-Application-Artifact-on-Droplet/7071-port.png)
    - ![Alt Text](Cloud-and-Infrastructure-as-Service/Deploy-And-Run-Application-Artifact-on-Droplet/5-Config-Firewall.png)
    - ![Alt Text](Cloud-and-Infrastructure-as-Service/Deploy-And-Run-Application-Artifact-on-Droplet/6-App-Working.png)
 5. **Running in detached mode:**
