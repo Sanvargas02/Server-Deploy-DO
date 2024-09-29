@@ -45,9 +45,9 @@ We will deploy an application on a cloud server:
    - ![Alt Text](Cloud-and-Infrastructure-as-Service/SetUp-Servers-on-Digital-Ocean/13-Add-Droplet.png)
 7. **Test access:**
    - Now, the server has a **Public IP Address** and SSH port (22) open.
-   - You can now connect to your server using SSH:
+   - You can now connect to your server from your PC using SSH:
      ```bash
-     ssh root@YOUR-IP-ADDRESS
+     ssh root@YOUR-SERVER-IP-ADDRESS
      ```
 8. **Install Required Software:**
    - Update the packages:
