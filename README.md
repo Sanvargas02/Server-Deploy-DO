@@ -143,7 +143,6 @@ We will deploy an application on a cloud server:
      su - <user_name>
      ```
      ![Alt Text](Cloud-and-Infrastructure-as-Service/Create-a-linux-user/2-Switch-Server.png)
-     ![Alt Text](Cloud-and-Infrastructure-as-Service/Create-a-linux-user/3-Switch-Server.png)
    - Log out of the user with:
      ```bash
      exit
