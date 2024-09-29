@@ -38,7 +38,7 @@ We will deploy an application on a cloud server:
 6. **Create Firewall Rules:**
    - In **Networking**, configure the firewall:
    - Create a firewall for all of DigitalOcean, and add rules to allow only necessary ports (like port 22 for SSH).
-   - Add the public IP of the server, along with the port.
+   - Add the public IP of my PC, along with the port in this case.
    - ![Alt Text](Cloud-and-Infrastructure-as-Service/SetUp-Servers-on-Digital-Ocean/10-go-to-networking.png)
    - ![Alt Text](Cloud-and-Infrastructure-as-Service/SetUp-Servers-on-Digital-Ocean/11-Edit-firewall.png)
    - ![Alt Text](Cloud-and-Infrastructure-as-Service/SetUp-Servers-on-Digital-Ocean/12-Conf-Name-Conn-Opt.png)
