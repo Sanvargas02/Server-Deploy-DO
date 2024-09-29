@@ -1,4 +1,4 @@
-# Server-Deploy-DO
+# Server-Deploy-DO 
 
 We will create a server and deploy an application on DigitalOcean, showing the process step by step.
 
@@ -19,6 +19,7 @@ We will deploy an application on a cloud server:
 1. **Log In to DigitalOcean.**
 2. **Create a Droplet:**
    - Choose a region near to us.
+   - ![Alt Text](Cloud-and-Infrastructure-as-Service/SetUp-Servers-on-Digital-Ocean/2-region.png)
    - Select the operating system (OS) for the VM.
    - Choose the size that your server will have (we don't need additional storage and backups for now).
 3. **Connect to the VM via SSH.**
